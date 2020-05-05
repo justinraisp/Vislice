@@ -1,2 +1,5 @@
 # Vislice
-Uvod v programiranje
+
+Ivan Vidva
+Josip Plemelj
+Jurij Vega
